@@ -4,17 +4,19 @@
   
     
     <entry>
-      <title><![CDATA[Hello World]]></title>
-      <url>http://wenify.com/2016/07/26/hello-world/</url>
-      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+      <title><![CDATA[生活随笔（一）]]></title>
+      <url>http://wenify.com/2016/07/25/20160726/</url>
+      <content type="html"><![CDATA[<p>##关于搭建博客</p>
+<p>　　前些天突发奇想，决定搭建一个属于自己的独立博客。我不是程序员，市面上也已经有足够多的博客平台，之所以选择这样做，只是因为我喜欢一切都掌控在自己手中的感觉，而且也不用担心哪天博客平台关掉了，自己写的东西都随之消失。<br>　　<br>　　说干就干，布置好了博客的里里外外，我便申请了www.wenify.com作为域名。其实这不是一个单词，因为实在是想不到更好的字母组合，或许可以理解为『使…文杰化』？？？呵呵，开个玩笑。<a id="more"></a><br>　　<br>　　关于建博客的初衷，其实主要是为了写一些读书笔记、生活随笔之类的东西，也算是作为自己生活的记录。读书的一些感想写下来也算是没有白读。<br>　　<br>　　说来也奇怪，我就是比较喜欢折腾这样小众的东西，我喜欢的这些东西周围也很少人能懂或者喜欢。
+　　</p>
+<p>##关于最近生活</p>
+<p>###关于跑步</p>
+<p>　　其实从去年就开始断断续续跑步，总是拿『天天跑伤膝盖』作为理由，心安理得地跑一天休一天，有时候休息一天，后面几天也会接着不想去了，直白点说就是三天打鱼两天晒网，没有坚持，效果也是可想而知。所以从六月底开始，我决定每天都出去跑，因为下雨的时候或者有事不在紫阳的时候自然就休息了，即便是某一天晚上喝了些酒第二天不能跑，我也坚持5：40起床出门走上一小时，这样自然就形成了习惯。7月份的跑量已经是过去几个月的总和，每天跑完回家都是浑身湿透的感觉，而且似乎烦恼也少了很多。<br>　　<div align="center"><br>　　　　<img src="http://oagdsodtb.bkt.clouddn.com/%E8%B7%91%E6%AD%A5%E6%95%B0%E6%8D%AE7.25.png?imageView2/1/w/180/h/320" alt="2016.7跑步数据"><br>　　　　</div><br>　　<br>　　<strong>2016年全年的跑步目标是600KM</strong>，后面的几个月我会努力完成！加油！
+　　</p>
+<p>###关于读书
+　　
+　　
+　　</p>
 ]]></content>
     </entry>
     
